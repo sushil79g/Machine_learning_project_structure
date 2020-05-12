@@ -20,6 +20,6 @@ Contains batch script which can be used for downloading files from web or batch 
 ### 9) training</br>
 Contains all experiments preperation, way on auto running experiments and updating metadata.
 ### 10) Dockerfile</br>
-This helps in dockerizing whole system
+This helps in dockerizing whole system.
 ### 11) requirements.txt</br>
 requirements files contains all the module used while building the project.
